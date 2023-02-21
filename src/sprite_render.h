@@ -9,8 +9,7 @@
 #include "shader.h"
 
 
-class SpriteRenderer
-{
+class SpriteRenderer{
 public:
     // Constructor (inits shaders/shapes)
     SpriteRenderer(Shader &shader);
